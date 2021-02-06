@@ -90,16 +90,7 @@
         "new_window": true,
         "no_follow": false
       },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "DEV",
-        "url": "https://dev.to/",
-        "style": "icon",
-        "icon_class": "fa-dev",
-        "new_window": true,
-        "no_follow": false
-      }
+  
     ],
     "has_subscribe": true,
     "subscribe_title": "Subscribe for new updates",
