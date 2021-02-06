@@ -19,11 +19,6 @@ Dopo aver scartato i primi progetti, decise di disporre un cilindro verso l'alto
 
 Nel 1935 riuscì perfino nell'impresa di vincere al TT inglese, un trofeo motociclistico famoso in tutto il Mondo che si corre sull'isola di Man in un circuito di più di 60km composto di carreggiate strette che attraversano centri cittadini, spesso recintate da muretti in pietra. Il trofeo è infatti tristemente noto per l'altissimo numero di vittime registrato nel corso degli anni.
 
-Due anni dopo invece, nel 1937, la Guzzi 250 taglia di nuovo per prima il traguardo della TT con in sella Omobono Tenni: il primo pilota italiano a vincere questo trofeo!
-
-Da qui in avanti, la storia della Moto Guzzi è piena di meritati successi ottenuti con fatica e determinazione a partire dal secondo dopoguerra.
-
-Di storie da raccontare ce ne sarebbero ancora molte, dal ritiro dalle competizioni alla creazione dello storico bicilindrico a V di 90° ma raccontarle tutte in un unico video è impossibile!
 
 > Scrivete nei commenti se vi piacerebbe continuare a scoprire l'evoluzione di questa incredibile casa italiana assieme a me in un altro video!
 
