@@ -5,7 +5,7 @@ subtitle: ''
 date: '2021-02-05T23:00:00Z'
 thumb_img_path: /images/photo_2021-02-06-17-51-36.jpeg
 thumb_img_alt: moto-guzzi
-content_img_path: /images/photo_2021-02-06 17.51.36.png
+content_img_path: /images/1.jpg
 content_img_alt: ''
 excerpt: ''
 ---
