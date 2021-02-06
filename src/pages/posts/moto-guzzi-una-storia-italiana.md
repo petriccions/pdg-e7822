@@ -2,11 +2,13 @@
 template: post
 title: 'Moto Guzzi: Una storia italiana'
 subtitle: ''
-date: '2021-02-05T23:00:00Z'
-thumb_img_path: /images/photo_2021-02-06-17-51-36.jpeg
+date: 2021-02-05T23:00:00Z
+thumb_img_path: "/images/photo_2021-02-06-17-51-36.jpeg"
 thumb_img_alt: moto-guzzi
-content_img_alt: ''
+content_img_alt: moto-guzzi
 excerpt: ''
+content_img_path: "/images/v7-ii-stone-img2-1.jpg"
+
 ---
 #### In poco tempo infatti si arrivò a superare i 1000 dipendenti, tutti appassionati del settore ed entusiasti di far parte di un progetto simile, tanto che i motoristi, per esempio, erano soliti incidere la propria sigla all'interno dei motori che venivano assemblati a mano.
 
