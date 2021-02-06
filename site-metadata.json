@@ -1,122 +1,110 @@
 {
-  "title": "Stackbit Ampersand Theme",
-  "description": "Medium inspired blogging theme for Stackbit",
-  "layout_style": "grid",
-  "palette": "",
-  "header": {
-    "type": "header",
-    "template": "header",
-    "title": "Piaceri di Guida",
-    "logo_img": "/images/logo.png",
-    "logo_img_alt": "Piaceri di Guida logo",
-    "has_nav": true,
-    "nav_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Home",
-        "url": "/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "About",
-        "url": "/about",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Style Guid",
-        "url": "/style-guide",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Contact",
-        "url": "/contact",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      }
-    ]
-  },
-  "footer": {
-    "type": "footer",
-    "template": "footer",
-    "content": "&copy; 2021. All rights reserved",
-    "has_social": true,
-    "social_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "style": "icon",
-        "icon_class": "fa-twitter",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Instagram",
-        "url": "https://www.instagram.com/piaceridiguida/",
-        "style": "icon",
-        "icon_class": "fa-instagram",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "GitHub",
-        "url": "https://github.com/",
-        "style": "icon",
-        "icon_class": "fa-github",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "style": "icon",
-        "icon_class": "fa-linkedin",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "DEV",
-        "url": "https://dev.to/",
-        "style": "icon",
-        "icon_class": "fa-dev",
-        "new_window": true,
-        "no_follow": false
-      }
-    ],
-    "has_subscribe": true,
-    "subscribe_title": "Subscribe for new updates",
-    "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
-    "subscribe_action": "/subscribe-success",
-    "links": [
-
-    ]
-  },
-  "favicon": "/images/logo.png"
+    "title": "Stackbit Ampersand Theme",
+    "description": "Medium inspired blogging theme for Stackbit",
+    "layout_style": "grid",
+    "palette": "",
+    "header": {
+        "type": "header",
+        "template": "header",
+        "title": "Piaceri di Guida",
+        "logo_img": "/images/logo.png",
+        "logo_img_alt": "Piaceri di Guida logo",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Home",
+                "url": "/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "About",
+                "url": "/about",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Style Guid",
+                "url": "/style-guide",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Contact",
+                "url": "/contact",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
+    },
+    "footer": {
+        "type": "footer",
+        "template": "footer",
+        "content": "&copy; 2021. All rights reserved",
+        "has_social": true,
+        "social_links": [
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon_class": "fa-twitter",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/piaceridiguida/",
+                "style": "icon",
+                "icon_class": "fa-instagram",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "GitHub",
+                "url": "https://github.com/",
+                "style": "icon",
+                "icon_class": "fa-github",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true,
+                "no_follow": false
+            }
+        ],
+        "has_subscribe": true,
+        "subscribe_title": "Subscribe for new updates",
+        "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
+        "subscribe_action": "/subscribe-success",
+        "links": []
+    },
+    "favicon": "/images/logo.png"
 }
