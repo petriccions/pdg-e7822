@@ -10,6 +10,11 @@ export default class Header extends React.Component {
             <header id="masthead" className="site-header outer">
               <div className="inner">
                 <div className="site-header-inside">
+                
+                  {_.get(this.props, 'pageContext.site.siteMetadata.header.has_nav', null) && (<React.Fragment>
+                  <button id="menu-open" className="menu-toggle"><span className="screen-reader-text">Menu</span><span className="icon-menu"
+                    aria-hidden="true" /></button>
+                  <nav id="main-navigation" className="site-nav" aria-label="Main Navigation">
                   <div className="site-branding">
                     {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null) && (
                     <p className="site-logo">
@@ -23,10 +28,6 @@ export default class Header extends React.Component {
                     <p className="site-title"><Link to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)}</Link></p>
                     }
                   </div>
-                  {_.get(this.props, 'pageContext.site.siteMetadata.header.has_nav', null) && (<React.Fragment>
-                  <button id="menu-open" className="menu-toggle"><span className="screen-reader-text">Menu</span><span className="icon-menu"
-                    aria-hidden="true" /></button>
-                  <nav id="main-navigation" className="site-nav" aria-label="Main Navigation">
                     <div className="site-nav-inside">
                       <button id="menu-close" className="menu-toggle"><span className="screen-reader-text">Menu</span><span className="icon-close"
                           aria-hidden="true" /></button>
