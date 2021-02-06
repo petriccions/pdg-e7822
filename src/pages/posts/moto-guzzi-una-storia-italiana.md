@@ -10,9 +10,7 @@ excerpt: ''
 content_img_path: "/images/v7-ii-stone-img2-1.jpg"
 
 ---
-#### In poco tempo infatti si arrivò a superare i 1000 dipendenti, tutti appassionati del settore ed entusiasti di far parte di un progetto simile, tanto che i motoristi, per esempio, erano soliti incidere la propria sigla all'interno dei motori che venivano assemblati a mano.
 
-**Nel corso degli anni '20 la Moto Guzzi riuscì ad affermarsi anche in ambito sportivo, vincendo numerose competizioni e dimostrando la stoffa di cui erano dotate le moto prodotte a Mandello.**
 
 Circa a metà degli anni '30, dopo diversi fallimenti dovuti a svariati tentativi in cui cercò di migliorare i motori usati introducendo prima un 4 cilindri poi un 3 cilindri, Guzzi ebbe un'altra delle sue geniali idee; visto che era quasi un decennio ormai che la Moto Guzzi 250 dominava senza troppa difficoltà le competizioni della sua classe, pensò di accoppiare due motori 250 sulla stessa moto, così da creare un 500 bicilindrico che potesse avere il successo tanto sperato.
 
