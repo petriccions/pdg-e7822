@@ -82,16 +82,6 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "fa-github",
-                "new_window": true,
-                "no_follow": false
-            },
-            {
-                "type": "action",
-                "template": "action",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
